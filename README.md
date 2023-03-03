@@ -1,2 +1,2 @@
 # Virtual-Processor-For-Image-DownSampling
-A single purpose  custom processor implemented in Verilog HDL  for image down sampling
+A single-purpose custom processor is implemented in Verilog HDL for image downsampling.
